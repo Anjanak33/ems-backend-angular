@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin 3",
+      "email": "admin@gmail.com",
+      "active": "1",
+      "password": "admin"
+    },
+    {
+      "id": "3",
+      "name": "Athmikah K",
+      "email": "athmikah@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "name": "Athmik dev",
+      "email": "athmik@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "5",
+      "name": "Devaams Krishna",
+      "email": "dk@gmail.com",
+      "Inactive": "0"
+    },
+    {
+      "id": "6",
+      "name": "Aroohi",
+      "email": "ar@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "9",
+      "name": "Amrutha",
+      "email": "amrutha@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "8",
+      "name": "MARK",
+      "email": "mark@test.com",
+      "active": "0"
+    },
+    {
+      "id": "13",
+      "name": "Samskrithi Dev",
+      "email": "sd@gmail.com",
+      "active": "1"
+    }
+  ]
+}
